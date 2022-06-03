@@ -1,0 +1,269 @@
+/************************************************************************/ /* Start Style All */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Segoe UI;
+  user-select: none;
+}
+/************************************************************************/ /* End Style All */
+
+/************************************************************************/ /* Start Style App */
+.section_circle_menu_one {
+  width: 200px;
+  height: 200px;
+  border-radius: 1000px;
+  position: relative;
+}
+
+.section_circle_main_one {
+  position: absolute;
+  bottom: 0;
+  left: 53%;
+  width: 80px;
+  height: 80px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.section_circle_subsidiary_one_one {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.section_circle_subsidiary_one_one:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_two_one {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.section_circle_subsidiary_two_one:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_three_one {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.section_circle_subsidiary_three_one:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_four_one {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.section_circle_subsidiary_four_one:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_five_one {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.section_circle_subsidiary_five_one:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_menu_two {
+  width: 200px;
+  height: 200px;
+  border-radius: 1000px;
+  position: relative;
+}
+
+.section_circle_main_two {
+  position: absolute;
+  bottom: 0;
+  left: 53%;
+  width: 80px;
+  height: 80px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.section_circle_subsidiary_one_two {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.6s;
+}
+
+.section_circle_subsidiary_one_two:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_two_two {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.8s;
+}
+
+.section_circle_subsidiary_two_two:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_three_two {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 1s;
+}
+
+.section_circle_subsidiary_three_two:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_four_two {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 1.2s;
+}
+
+.section_circle_subsidiary_four_two:hover {
+  color: #fff;
+  background-color: #666;
+}
+
+.section_circle_subsidiary_five_two {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eee;
+  width: 40px;
+  height: 40px;
+  background-color: #222;
+  border-radius: 1000px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 1.4s;
+}
+
+.section_circle_subsidiary_five_two:hover {
+  color: #fff;
+  background-color: #666;
+}
+/************************************************************************/ /* End Style App */
